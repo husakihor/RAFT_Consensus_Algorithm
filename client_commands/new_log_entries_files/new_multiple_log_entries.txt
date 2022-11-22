@@ -1,0 +1,3 @@
+dynamic logs entries 1
+dynamic logs entries 2
+dynamic logs entries 3

@@ -1,0 +1,4 @@
+static log 1_1
+static log 1_2
+static log 1_3
+static log 1_4
